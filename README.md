@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/sahitopirih" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahitopirih" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pirih sahito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pirih sahito" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pirih.sahito.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pirih.sahito.7" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/pirih sahito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pirih sahito" height="30" width="40" /></a>
 <a href="https://instagram.com/pirihsahito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pirihsahito" height="30" width="40" /></a>
 </p>
 
