@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pirihsahito&" alt="pirihsahito" /></p>
  ​"imageUrl"​: ​"https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png"​,​
-    ​"issueNumber"​: ​66​
+    ​"issueNumber"​: ​70
