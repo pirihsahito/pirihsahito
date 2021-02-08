@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahitopirih" target="blank"><img src="https://img.shields.io/twitter/follow/sahitopirih?logo=twitter&style=for-the-badge" alt="sahitopirih" /></a> </p>
 
+- Nickname **"Tʜɘ Hɩtɭɘʀ"**
 - 📫 How to reach me **pirihsahito786@gmail.com**
 
 - ⚡ Fun fact **Memer pro max...😎😂**
