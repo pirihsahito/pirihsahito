@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pirih Sahito</h1>
+<p><img align="center" src="https://github.com/pirihsahito/pirihsahito/blob/main/FB_IMG_1601309334568.jpg" alt="pirihsahito"/></p>
 <h3 align="center">I'm from Sindh,Pakistan...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirihsahito&label=Profile%20views&color=0e75b6&style=flat" alt="pirihsahito" /> </p>
@@ -27,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pirihsahito&show_icons=true&locale=en" alt="pirihsahito" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pirihsahito&" alt="pirihsahito" /></p>
-<p><img align="right" src="https://github.com/pirihsahito/pirihsahito/blob/main/FB_IMG_1601309334568.jpg" alt="pirihsahito"/></p>
