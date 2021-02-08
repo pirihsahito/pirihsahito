@@ -7,9 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pirihsahito" alt="pirihsahito" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sahitopirih" target="blank"><img src="https://img.shields.io/twitter/follow/sahitopirih?logo=twitter&style=for-the-badge" alt="sahitopirih" /></a> </p>
-<p align="left"> <a href="https://fb.com/pirih.sahito.7" target="blank"><img src="https://img.shields.io/facebook/follow/pirih.sahito.7?logo=facebook&style=for-the-badge" alt="pirihsahito.7" /></a> </p>
-<p align="left"> <a href="https://instagram.com/pirihsahito" target="blank"><img src="https://img.shields.io/Instagram/follow/pirihsahito?logo=Instagram&style=for-the-badge" alt="pirihsahito" /></a> </p>
-<p align="left"> <a href="https://linkedin.com/pirih sahito" target="blank"><img src="https://img.shields.io/linkedin/follow/pirih sahito?logo=linkedin&style=for-the-badge" alt="pirih sahito" /></a> </p>
 
 - 📫 How to reach me **pirihsahito786@gmail.com**
 
