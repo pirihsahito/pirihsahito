@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm ᖘiriђSaђito</h1>
+<p><img align="center" src="https://github.com/pirihsahito/pirihsahito/blob/main/PicsArt_02-11-09.54.04.jpg" alt="pirihsahito" /></p>
 https://github.com/pirihsahito/pirihsahito/blob/main/PicsArt_02-11-09.54.04.jpg
 <h3 align="center">From Sindh,Pakistan...</h3>
 
