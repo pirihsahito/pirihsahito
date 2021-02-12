@@ -1,5 +1,5 @@
 <h1 align="center">Hi...👋, I'm Pɩʀɩʜ Sʌʜɩt0</h1>
-<p><img align="center" src="https://github.com/pirihsahito/pirihsahito/blob/main/PicsArt_02-11-09.54.04.jpg" alt="pirihsahito" /></p>
+<p><img align="center" src="https://github.com/pirihsahito/pirihsahito/blob/main/PicsArt_02-12-01.50.46.jpg" alt="pirihsahito" /></p>
 <h3 align="center">I'm from Sindh,Pakistan...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirihsahito&label=Profile%20views&color=0e75b6&style=flat" alt="pirihsahito" /> </p>
