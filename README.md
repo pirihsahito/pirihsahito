@@ -1,4 +1,4 @@
-<h1 align="center">Hi...👋, I'm Pɩʀɩʜ Sʌʜɩt0</h1>
+<h1 align="center">Hi...👋, I'm Pirih Sahito</h1>
 <p><img align="center" src="https://github.com/pirihsahito/pirihsahito/blob/main/PicsArt_02-12-01.50.46.jpg" alt="pirihsahito" /></p>
 <h3 align="center">I'm from Sindh, Pakistan...</h3>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sahitopirih" target="blank"><img src="https://img.shields.io/twitter/follow/sahitopirih?logo=twitter&style=for-the-badge" alt="sahitopirih" /></a> </p>
 
-- Nickname **"Hɩtɭɘʀ"**
+- Nickname **"PIYA"**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 📫 How to reach me **pirihsahito786@gmail.com**
 
