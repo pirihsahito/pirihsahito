@@ -10,7 +10,7 @@
 
 - Nickname **"PIYA"**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **pirihsahito786@gmail.com**
 
