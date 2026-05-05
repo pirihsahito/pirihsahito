@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sahitopirih" target="blank"><img src="https://img.shields.io/twitter/follow/sahitopirih?logo=twitter&style=for-the-badge" alt="sahitopirih" /></a> </p>
 
-- Nickname **"PIYA"**
+- Nickname **"Hitler"**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **PYTHON**
 
 - 📫 How to reach me **pirihsahito786@gmail.com**
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/sahitopirih" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahitopirih" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pirih sahito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pirih sahito" height="30" width="40" /></a>
-<a href="https://fb.com/pirih.sahito.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pirih.sahito.7" height="30" width="40" /></a>
+<a href="https://fb.com/sahito.pirih" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sahito.pirih" height="30" width="40" /></a>
 <a href="https://instagram.com/pirihsahito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pirihsahito" height="30" width="40" /></a>
 <a href="https://medium.com/pirihsahito786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="pirihsahito786" height="30" width="40" /></a>
 </p>
