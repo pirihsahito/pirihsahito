@@ -8,13 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/sahitopirih" target="blank"><img src="https://img.shields.io/twitter/follow/sahitopirih?logo=twitter&style=for-the-badge" alt="sahitopirih" /></a> </p>
 
-- Nickname **"Hitler"**
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **PYTHON FULL STACK DEVELOPMENT**
 
 - 📫 How to reach me **pirihsahito786@gmail.com**
 
-- ⚡ Fun fact **Memer pro max...😎😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
