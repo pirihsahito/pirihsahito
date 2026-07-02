@@ -1,6 +1,6 @@
-<h1 align="center">Hi...👋, I'm Pirih Sahito</h1>
+<h1 align="center">Hi👋, I'm Pirih Sahito</h1>
 <p><img align="center" src="https://github.com/pirihsahito/pirihsahito/blob/main/Banner_Software_Engineer.png" alt="pirihsahito" /></p>
-<h3 align="center">I'm from Sindh, Pakistan...</h3>
+<h3 align="center">I'm from Sindh, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirihsahito&label=Profile%20views&color=0e75b6&style=flat" alt="pirihsahito" /> </p>
 
@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://twitter.com/sahitopirih" target="blank"><img src="https://img.shields.io/twitter/follow/sahitopirih?logo=twitter&style=for-the-badge" alt="sahitopirih" /></a> </p>
 
 
-- 🌱 I’m currently learning **PYTHON FULL STACK DEVELOPMENT**
+- I’m currently learning **PYTHON FULL STACK DEVELOPMENT**
 
-- 📫 How to reach me **pirihsahito786@gmail.com**
+- How to reach me **pirihsahito786@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
